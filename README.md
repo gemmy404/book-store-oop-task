@@ -72,6 +72,10 @@ The system includes comprehensive error handling:
 
 ## Testing
 
+![Testing Results Screenshot](/screenshots/1.jpg)
+![Testing Results Screenshot](/screenshots/2.jpg)
+![Testing Results Screenshot](/screenshots/3.jpg)
+
 Comprehensive test suite with `BookStoreTest` class covering:
 - Book addition and removal
 - Purchase workflows
